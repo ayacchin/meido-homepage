@@ -25,5 +25,5 @@ To customize mascots, modify the array in [files/mascots.js](files/mascots.js):
 var mascotList = [ "meido1.png",  "meido2.png", "meido3.png", "meido4.png", "meido5.png", "meido6.png"];
 ```
 
-To make new theme, you can copy an existing one, and change images and [colors.css](files/colors.css) as you like.  
+To make a new theme, you can copy the existing one, and change images and [colors.css](files/colors.css) as you like.  
 Please note that entries in your theme's [mascots.js](files/mascots.js) should match with contents of [mascots/](files/images/mascots/) directory.
