@@ -3,8 +3,6 @@ Meido Homepage
 
 ![alt tag](screenshots/preview.png "Homepage preview")
 
-**Live Demo: [Dark](http://gokoururi.github.io/homepage/)**
-
 From the original readme:
 
 > This repository contains a custom homepage made using html, css and javascript (jQuery). Feel free to download and modify. Comments and suggestions appreciated. Please don't expect too much.
